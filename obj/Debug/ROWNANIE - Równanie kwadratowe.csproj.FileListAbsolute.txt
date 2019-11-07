@@ -1,0 +1,7 @@
+D:\Users\fidalskik\source\repos\ROWNANIE - Równanie kwadratowe\ROWNANIE - Równanie kwadratowe\bin\Debug\ROWNANIE - Równanie kwadratowe.exe.config
+D:\Users\fidalskik\source\repos\ROWNANIE - Równanie kwadratowe\ROWNANIE - Równanie kwadratowe\bin\Debug\ROWNANIE - Równanie kwadratowe.exe
+D:\Users\fidalskik\source\repos\ROWNANIE - Równanie kwadratowe\ROWNANIE - Równanie kwadratowe\bin\Debug\ROWNANIE - Równanie kwadratowe.pdb
+D:\Users\fidalskik\source\repos\ROWNANIE - Równanie kwadratowe\ROWNANIE - Równanie kwadratowe\obj\Debug\ROWNANIE - Równanie kwadratowe.csprojResolveAssemblyReference.cache
+D:\Users\fidalskik\source\repos\ROWNANIE - Równanie kwadratowe\ROWNANIE - Równanie kwadratowe\obj\Debug\ROWNANIE - Równanie kwadratowe.csproj.CoreCompileInputs.cache
+D:\Users\fidalskik\source\repos\ROWNANIE - Równanie kwadratowe\ROWNANIE - Równanie kwadratowe\obj\Debug\ROWNANIE - Równanie kwadratowe.exe
+D:\Users\fidalskik\source\repos\ROWNANIE - Równanie kwadratowe\ROWNANIE - Równanie kwadratowe\obj\Debug\ROWNANIE - Równanie kwadratowe.pdb
